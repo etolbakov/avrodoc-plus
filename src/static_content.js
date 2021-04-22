@@ -19,7 +19,7 @@ var client_js = [
     'vendor/underscore-1.4.2.js',
     'vendor/dust-core-1.1.1.js',
     'vendor/dustjs-helpers-1.1.0.js',
-    'vendor/sammy-0.7.1.js',
+    'vendor/sammy-0.7.6.js',
     'vendor/bootstrap-tooltip.js',
     'vendor/bootstrap-popover.js',
     'vendor/markdown.js',
